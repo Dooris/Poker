@@ -1,0 +1,36 @@
+Game started.
+Player1: [3 of hearts, 4 of hearts, 5 of clubs, 8 of hearts, J of spades]
+ -> Nothing
+Player2: [5 of hearts, 10 of clubs, 10 of diamonds, J of diamonds, K of clubs]
+ -> Pair
+Player3: [3 of spades, 4 of spades, 5 of diamonds, 6 of diamonds, 7 of spades]
+ -> Straight
+Do you want play again? (Y/N)
+y
+New game:
+Player1: [4 of spades, 7 of spades, 9 of hearts, 10 of spades, 10 of diamonds]
+ -> Pair
+Player2: [2 of diamonds, 7 of diamonds, Q of spades, K of spades, K of hearts]
+ -> Pair
+Player3: [3 of spades, 5 of diamonds, 5 of spades, 5 of clubs, A of diamonds]
+ -> Three of a kind
+Do you want play again? (Y/N)
+y
+New game:
+Player1: [3 of spades, 4 of spades, 4 of diamonds, 10 of spades, K of hearts]
+ -> Pair
+Player2: [8 of spades, 8 of hearts, Q of clubs, A of spades, A of diamonds]
+ -> Two pairs
+Player3: [5 of spades, 6 of diamonds, 10 of hearts, A of clubs, A of hearts]
+ -> Pair
+Do you want play again? (Y/N)
+y
+New game:
+Player1: [3 of clubs, 5 of clubs, 5 of hearts, 7 of diamonds, 10 of diamonds]
+ -> Pair
+Player2: [2 of spades, 4 of clubs, Q of clubs, Q of diamonds, Q of hearts]
+ -> Three of a kind
+Player3: [2 of clubs, 3 of diamonds, 6 of diamonds, 8 of diamonds, A of hearts]
+ -> Nothing
+Do you want play again? (Y/N)
+n
